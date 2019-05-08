@@ -1,7 +1,7 @@
 # Neural-Network-for-Water-Quality-Prediction
 The results from this project are published in Journal of Environmental Engineering, available [here](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29EE.1943-7870.0001528)
 
-Artificial Neural Network for Prediction of Total Nitrogen and Phosphorus in US Lakes
+# Artificial Neural Network for Prediction of Total Nitrogen and Phosphorus in US Lakes
 Tadesse A. Sinshaw, Ph.D.; Cristiane Q. Surbeck, Ph.D., M.ASCE; Hakan Yasarer, Ph.D., A.M.ASCE; and Yacoub Najjar, Ph.D., M.ASCE
 
 Abstract
